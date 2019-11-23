@@ -1,0 +1,7 @@
+apiVersion: customer.akoserwal.io/v1alpha1
+kind: Customer
+metadata:
+  name: example-customer
+spec:
+  # Add fields here
+  size: 3
